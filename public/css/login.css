@@ -1,0 +1,22 @@
+.loginContainer{
+    text-align: center;
+    justify-content: center;
+}
+.imageStyle{
+    width: 400px;
+    height: 200px;
+    padding-bottom: 50px;
+}
+.centerContent{
+    text-align: center;
+    justify-content: center;
+}
+.avatar{
+    width: 350px; /* Ancho personalizado */
+    height: 350px;
+    border-radius: 50%;
+}
+.card{
+    margin: auto;
+    width: 600px;
+}
